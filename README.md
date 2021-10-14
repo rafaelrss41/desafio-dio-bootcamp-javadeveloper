@@ -11,6 +11,8 @@ afim de melhorar as mesmas contidas neste repositorio;
 ## Uma Última observação
 Lembrando que as soluções são expostas como métodos de uma classe e são apenas chamadas dentro da main para exibir no console da IDE os resultados;
 
+Não existe solução publicada aqui neste repositorio do último desafio,mas fique a vontade para publicar aqui a sua solução do mesmo;
+
 A IDE utilizada nas soluções foi o Intelijjei Community Edition;
 
 Espero ter ajudado :)
